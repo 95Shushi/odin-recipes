@@ -14,6 +14,7 @@ h1 {
 
 img {
     width: 500px;
+    height: auto;
 }
 
 h2 {
@@ -22,7 +23,7 @@ h2 {
 }
 
 p {
-    padding: 10px;
+    padding: 10px 20px;
 }
 
 h3 {
@@ -32,6 +33,12 @@ h3 {
     padding: 5px 5px;
 }
 
+ol, 
+ul {
+    padding-right: 20px;
+}
+
 ul li {
     margin: 5px 0;
 }
+
