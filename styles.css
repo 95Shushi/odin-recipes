@@ -18,5 +18,20 @@ img {
 
 h2 {
     background-color: #c0c0c070;
+    padding: 10px;
 }
 
+p {
+    padding: 10px;
+}
+
+h3 {
+    margin-left: 25px;
+    background-color: #c0c0c070;
+    width: 260px;
+    padding: 5px 5px;
+}
+
+ul li {
+    margin: 5px 0;
+}
